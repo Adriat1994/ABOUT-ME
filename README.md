@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Adrián Torres</h1>
 <h3 align="center">soy un Full Stack Developer apasionado por aprender!!</h3>
 
-- 🌱 Actualmente continuo formandome en **React**
+- 🌱 Actualmente continuo formandome en **React, Angular, CSS, HTML, JavaScript**
 
-- 💬 Puedes consultarme sobre **HTML, CSS, SASS, javascript, Angular, React, PHP, Node**
+- 💬 Puedes consultarme sobre **HTML, CSS, SASS, javaScript, Angular, React, PHP, Node**
 
 - 📫 Puedes contactarme en **adriat1994@gmail.com**
 
